@@ -13,7 +13,7 @@
   opacity: 0;
   transform: scale(0);
   transition: 0.8s;
-  font-size: 2rem;
+  font-size: 3rem;
   color: rgb(236, 235, 235);
 }
 .image:hover {
